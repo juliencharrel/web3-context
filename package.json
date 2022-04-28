@@ -10,6 +10,7 @@
     "node": ">=8",
     "yarn": ">=1"
   },
+  "type": "module",
   "scripts": {
     "build": "rollup -c",
     "start": "rollup -c -w",
